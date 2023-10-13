@@ -26,6 +26,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasmasternoob&repo=lucasmasternoob&theme=react)](https://github.com/artur-debv/artur-debv)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasmasternoob&repo=lucasmasternoob&theme=react)](https://github.com/lucasmasternoob/lucasmasternoob)
 
 
