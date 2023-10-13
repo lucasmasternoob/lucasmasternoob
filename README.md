@@ -28,7 +28,8 @@
  
  
    ![Snake animation](https://github.com/lucasmasternoob/lucasmasternoob/blob/output/github-contribution-grid-snake.svg)
- 
+
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasmasternoob&repo=lucasmasternoob&theme=react)](https://github.com/artur-debv/artur-debv)
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasmasternoob&repo=lucasmasternoob&theme=react)](https://github.com/artur-debv/artur-debv)
+
