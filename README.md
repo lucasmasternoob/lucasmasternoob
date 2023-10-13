@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/lucas-henrique-029590103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-##
 
   
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/artur-debv/artur-debv)
