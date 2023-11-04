@@ -1,0 +1,7 @@
+{
+  "snake_length": 15,
+  "snake_color": "#00FF00",
+  "bg_color": "#000000",
+  "board_size": "7x43",
+  "speed": 3
+}
