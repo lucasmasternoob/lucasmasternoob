@@ -1,6 +1,3 @@
-<img align="center" src="https://github.com/lucasmasternoob/lucasmasternoob/dist/github-contribution-grid-snake.svg">
-
-
 <div align="center">
   <a href="https://github.com/lucasmasternoob">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmasternoob&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,5 +25,5 @@
   
 </div>
 
-
+<img align="center" src="https://github.com/lucasmasternoob/lucasmasternoob/dist/github-contribution-grid-snake.svg">
 
