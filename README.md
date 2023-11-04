@@ -25,6 +25,6 @@
   
 </div>
 
-<img align="center" src="https://github.com/lucasmasternoob/lucasmasternoob/github-contribution-grid-snake.svg/dist/github-contribution-grid-snake.svg">
+<img align="center" src="https://github.com/lucasmasternoob/lucasmasternoob/dist/github-contribution-grid-snake.svg">
 
 
