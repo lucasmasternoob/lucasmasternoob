@@ -25,6 +25,7 @@
   
 </div>
 
-<img align="center" src="https://github.com/lucasmasternoob/lucasmasternoob/dist/github-contribution-grid-snake.svg">
+![Snake animation](https://github.com/lucasmasternoob/lucasmasternoob/raw/output/github-contribution-grid-snake.svg)
+
 
 
